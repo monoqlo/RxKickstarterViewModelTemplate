@@ -31,7 +31,7 @@ class ___FILEBASENAMEASIDENTIFIER___: ___FILEBASENAMEASIDENTIFIER___Inputs, ___F
     
     // MARK: - ___FILEBASENAMEASIDENTIFIER___Inputs
     
-    var <#name#>: Observable<<#type#>>
+    let <#name#>: Observable<<#type#>>
     
     // MARK: -
     
